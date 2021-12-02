@@ -1,0 +1,25 @@
+{
+  "name": "spirit-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for loosers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "canvacord": "^5.2.3",
+    "discord-giveaways": "^4.4.3",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "distube": "^2.8.12",
+    "ffmpeg-static": "^4.3.0",
+    "mongoose": "^5.11.18",
+    "random-puppy": "^1.1.0",
+    "reconlx": "^2.5.1",
+    "weather-js": "^2.0.0"
+  }
+}
